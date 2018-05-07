@@ -1,0 +1,8 @@
+{
+	"name":"Node.js ToDo App",
+	"description":"A demo using express",
+	"repository":"https://github.com/RYTHAM/todoApp",
+	"logo":"http://node-js-sample.herokuapp.com/node.svg",
+	"keywords":["node","express","static"],
+	"image":"heroku/nodejs"
+}
